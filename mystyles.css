@@ -1,0 +1,62 @@
+body{ 
+   .intro-text{
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5)
+
+   }
+background-color: rgb(202, 186, 233);
+    color: cornsilk;
+    /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+    background-image: url(file:///Users/rachel/Downloads/seamless-pattern-6666875_1280.jpg);
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: rgb(27, 26, 28)
+}
+h5 {
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+    color: whitesmoke;
+    font-size: xx-large;
+}
+a {
+    color: cadetblue;
+}
+a:visited {
+    color: white;
+}
+img {
+    border: 2px solid lightblue;
+    /*KNOW THIS FOR THE PROGJECT*/
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    /*display: block;
+    margin: auto;*/
+}
+.imgcenter {
+    display: block;
+    margin: auto;
+}
+.rizz{
+    background-color: rgb(79, 135, 135);
+    color: rgba(77, 106, 34, 0.726);
+    font-style: normal;
+    text-align: center;
+  
+
+<br>
+
+li{
+    text-decoration: dashed;
+  
+}
+/*positioning styles*/
+.common{
+    position: absolute;
+    border: 5px, solid black;
+    background-color: pink;
+}
